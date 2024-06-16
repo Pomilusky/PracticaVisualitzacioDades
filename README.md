@@ -3,7 +3,7 @@ Repositori per a l'assignatura de Visualització de dades del Màster de ciènci
 
 El codi en els arxius està complementat amb un informe entregat en format pdf al profesorat a més de la visualització generada a Google Looker Studio, disponible clickant a l'enllaç: 
 
-https://lookerstudio.google.com/u/0/reporting/7dc49945-74af-487d-8669-6761038d5642/page/p_41tcqlbhhd/edit
+https://lookerstudio.google.com/u/0/reporting/7dc49945-74af-487d-8669-6761038d5642/page/p_41tcqlbhhd
 
 Cal recordar que el codi no funcionarà encara que s'intenti executar per dues raons:
 * No hi ha l'arxiu de credencials que l'he mantingut al git ignore
